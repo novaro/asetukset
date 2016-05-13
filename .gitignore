@@ -1,0 +1,5 @@
+*.sw?
+.backup
+downloads/
+home/.fonts/
+home/.vim/
